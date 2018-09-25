@@ -1,0 +1,17 @@
+{
+  "name": "protractor-tutorial",
+  "version": "1.0.0",
+  "description": "Ejercicios de Protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protactor",
+    "test",
+    "end-to-end",
+    "agile"
+  ],
+  "author": "isc.orangelc@gmail.com",
+  "license": "ISC"
+}
