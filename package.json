@@ -13,5 +13,8 @@
     "agile"
   ],
   "author": "isc.orangelc@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
 }
